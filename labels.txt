@@ -1,0 +1,2 @@
+0 no_logo
+1 usf_logo
